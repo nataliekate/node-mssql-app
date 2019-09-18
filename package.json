@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "@hapi/basic": "^5.1.1",
+    "@hapi/cookie": "^10.1.2",
+    "@hapi/hapi": "^18.4.0",
+    "bcryptjs": "^2.4.3"
+  }
 }
